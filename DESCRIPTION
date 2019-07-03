@@ -1,0 +1,14 @@
+Package: example
+Title: Example R package for Jul 2019 workshop
+Version: 0.0.0.9000
+Authors@R: person("Fui Swen", "Kuh", email = "swen.kuh@anu.edu.au", role = c("aut", "cre"))
+Description: Running examples from the workshop to build own R package
+Depends: R (>= 3.6.0)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
