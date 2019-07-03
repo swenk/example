@@ -39,7 +39,7 @@ cuberoot <- function(x){
   x^(1/3)
 }
 
-#' Wrapper function for odd
+#' test Wrapper function for odd
 #'
 #' @param x
 #'
